@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Zone Sweatshirt",
+    "priceRange": { "first": 19.95, "second": 159.95 },
+    "image": "/images/zone-sweatshirt.png",
+    "hot": false,
+    "discount": 64,
+    "sale": false,
+    "new": false,
+    "id": "1"
+  },
+  {
+    "title": "Zoo Men’s t-shirt",
+    "priceRange": { "first": 14.95, "second": 119.95 },
+    "image": "/images/zoo-mens-tshirt.png",
+    "hot": false,
+    "discount": 14,
+    "sale": false,
+    "new": false,
+    "id": "2"
+  },
+  {
+    "title": "Toddler T-shirt",
+    "priceRange": { "first": 26 },
+    "image": "/images/toddler-tshirt.png",
+    "hot": true,
+    "discount": 52,
+    "sale": false,
+    "new": false,
+    "id": "3"
+  },
+  {
+    "title": "Fine Jersey",
+    "priceRange": { "first": 28, "second": 31 },
+    "image": "/images/fine-jersey.png",
+    "hot": true,
+    "discount": 30,
+    "sale": false,
+    "new": false,
+    "id": "4"
+  },
+  {
+    "title": "Kids Hoodie",
+    "priceRange": { "first": 26, "second": 29 },
+    "image": "/images/kids-hoodie.png",
+    "hot": false,
+    "discount": 43,
+    "sale": true,
+    "new": true,
+    "id": "5"
+  },
+  {
+    "title": "Youth Short Sleeve",
+    "priceRange": { "first": 26, "second": 29 },
+    "image": "/images/youth-short-sleeve.png",
+    "hot": false,
+    "discount": 69,
+    "sale": true,
+    "new": true,
+    "id": "6"
+  },
+  {
+    "title": "Midweight Cotton",
+    "priceRange": { "first": 26, "second": 29 },
+    "image": "/images/midweight-cotton.png",
+    "hot": false,
+    "discount": 6,
+    "sale": true,
+    "new": true,
+    "id": "7"
+  },
+  {
+    "title": "Hooded Sweatshirt",
+    "priceRange": { "first": 28 },
+    "image": "/images/hooded-sweetshirt.png",
+    "hot": false,
+    "discount": 46,
+    "sale": false,
+    "new": false,
+    "id": "8"
+  }
+]

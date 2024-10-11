@@ -1,0 +1,41 @@
+meta {
+  name: create Card
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:3000/cards/add
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "title": "1",
+    "priceRange": {
+      "first": 1
+    },
+    "image": "/1/1.png",
+    "hot": false,
+    "discount": 3,
+    "sale": false,
+    "new": false
+  }
+}
+
+body:text {
+  {
+    "title": "test",
+    "priceRange": {
+      "first":1,
+      "second": 2
+    },
+    "image": "/images/test.png",
+    "hot": false,
+    "discount": 3,
+    "sale": false,
+    "new": false,
+    "id": "test"
+  }
+}
